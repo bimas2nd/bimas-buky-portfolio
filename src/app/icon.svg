@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bimas Buky">
+  <rect width="64" height="64" rx="14" fill="#070c11"/>
+  <g fill="none" stroke="#6fe3f2" stroke-width="2.5">
+    <circle cx="32" cy="32" r="18" opacity="0.85"/>
+    <path d="M32 14a18 18 0 0 1 0 36" opacity="0.45" stroke="#ffffff"/>
+    <path d="M14 32a18 18 0 0 1 36 0" opacity="0.3"/>
+  </g>
+  <circle cx="32" cy="32" r="4" fill="#ffffff"/>
+</svg>
